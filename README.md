@@ -23,9 +23,6 @@
 <img width="40" height="40"  src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/atom.png">
 <img alt="notepadplusplus" height="40" width="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/notepadplusplus.png" />
 <img alt="github" height="40" width="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"
-</p>      
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valentinefernandes&langs_count=20&show_icons=true&locale=en&layout=compact" alt="valentinefernandes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valentinefernandes&show_icons=true&locale=en" alt="valentinefernandes" /></p>
 
@@ -39,25 +36,6 @@
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=Quiz-Application)](https://github.com/valentinefernandes/Quiz-Application)
 <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=Calculator)](https://github.com/valentinefernandes/Calculator)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=My-Site)](https://github.com/valentinefernandes/My-Site)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=calculator-light-dark-mode)](https://github.com/valentinefernandes/calculator-light-dark-mode)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=Portfolio)](https://github.com/ValentineFernandes/Portfolio)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=eShop-Website)](https://github.com/ValentineFernandes/eShop-Website)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=Interior-Design-Website)](https://github.com/ValentineFernandes/Interior-Design-Website)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=Food-Website)](https://github.com/ValentineFernandes/Food-Website)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=DentalClinic-Website)](https://github.com/ValentineFernandes/DentalClinic-Website)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=UI-Assignment)](https://github.com/ValentineFernandes/UI-Assignment)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=ValentineFernandes)](https://github.com/valentinefernandes/ValentineFernandes)
 
 <hr>
 <h1 align="center">Projects</h1> 
