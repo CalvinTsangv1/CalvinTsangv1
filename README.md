@@ -30,13 +30,6 @@
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valentinefernandes&theme=github" /></p>
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=valentinefernandes&bc=ebebeb&ic=0E8AD9" alt="valentinefernandes" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=PetDog-Complete-Website)](https://github.com/valentinefernandes/PetDog-Complete-Website)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=eFresh-Groceries-Website)](https://github.com/valentinefernandes/eFresh-Groceries-Website)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=Quiz-Application)](https://github.com/valentinefernandes/Quiz-Application)
-<br />
-
 <hr>
 <h1 align="center">Projects</h1> 
 <table>
