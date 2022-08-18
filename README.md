@@ -24,8 +24,6 @@
 <img alt="notepadplusplus" height="40" width="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/notepadplusplus.png" />
 <img alt="github" height="40" width="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valentinefernandes&show_icons=true&locale=en" alt="valentinefernandes" /></p>
-
 
 
 
