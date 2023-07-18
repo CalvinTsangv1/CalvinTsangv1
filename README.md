@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go Language, NestJS, Python,Kubernetes, Docker, MongoDB**  
 
-- 💬 Ask me about **Java , PHP, C# , C++ , Python, TypeScript, JavaScript**    
+- 💬 Ask me about **Java, Python, TypeScript, JavaScript**    
 
 - ⚡ Fun fact **I enjoy sketching and painting.**  
 
