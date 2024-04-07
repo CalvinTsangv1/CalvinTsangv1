@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **Java, Python, TypeScript, JavaScript**    
 
-- ⚡ Fun fact **I enjoy sketching and painting.**  
+- ⚡ Fun fact **I enjoy skiing, swimming.**
+
+- 🌱 **Brainstorming** Innovative idea, helping people
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
